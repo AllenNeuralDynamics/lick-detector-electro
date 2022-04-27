@@ -1,6 +1,6 @@
 # Lick Detector Electro
 
-This is an internal migration of the Dual Lick Port from Janelia Research Campus.
+This is a migration of the Dual Lick Port project from Janelia Research Campus.
 
 
 ## Connection Overview
