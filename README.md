@@ -24,3 +24,7 @@ This board also exposes each Lick Port's 12V output via the two Molex Microfit 3
 ## Errata
 This mouse's body is connected to a live 9V line in this configuration.
 The result is that an accidental connection to GND elswhere in the setup will pass an unregulated amount of current through the mouse.
+
+## References
+* [A Simple 2-Transistor Touch or Lick Detector Circuit](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2648519/)
+    * A similar circuit and application
