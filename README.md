@@ -21,6 +21,6 @@ This board also exposes each Lick Port's 12V output via the two Molex Microfit
 
 ## Schematic
 
-[schematic.pdf](./board/JF-SV-LP0001REVA.pdf)
+[schematic.pdf](./board/JF-SV-LP0001.pdf)
 
 
